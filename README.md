@@ -6,3 +6,10 @@ Generally, when coding an algorithm for a robot, it is deterministic and predict
 
 ## What is Mimicry ?
 Mimicry is an Open source Supervised Machine Learning mobile robot based on Arduino UNO-Q board. 
+It consists primarily of four STS3215 motors for movement, three ultrasonic sensors for obstacle detection, and an Arduino UNO-Q board as the onboard computer.
+
+![Mimicry](/img/robot%20description.png)
+
+Mimicry have overall dimensions of 212 × 159 × 83 mm (L × W × H).
+
+![Mimicry](/img/robot-image_plan.png)
