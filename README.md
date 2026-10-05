@@ -1,3 +1,5 @@
+
+![Mimicry](/img/p1.JPG)
 ![Mimicry](/img/robot-image.png)
 ![Mimicry](/img/robot1.JPG)
 ## What is going on ?
@@ -33,3 +35,4 @@ it composed with an Arduino UNO Q, three HC-SR04 ultrasonic sensors, four STS321
 Note: The schematic uses an Arduino UNO image instead of the Arduino UNO Q, as an appropriate UNO Q image was not available when the diagram was created. The wiring and functional connections represented in the diagram correspond to the project architecture.
 
 ![Mimicry](/img/circuit.png)
+
