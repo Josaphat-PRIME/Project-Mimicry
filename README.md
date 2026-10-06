@@ -1,5 +1,5 @@
 ## QUICK START INSTRUCTIONS
-As Arduino UNO Q have the easiest way to make a python and C++ project, all you need is just download this zip file and import him on the Arduino APPLAB and you can enjoy your project
+As Arduino UNO Q have the easiest way to make a python and C++ project, all you need is just download the zip file on the code foland import him on the Arduino APPLAB and you can enjoy your project the fastest way to start.
 
 ![Mimicry](/img/p1.JPG)
 ![Mimicry](/img/robot-image.png)
